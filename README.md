@@ -1,1 +1,1 @@
-# super-duper-weathe-bot
+# super-duper-weather-bot
