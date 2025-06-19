@@ -1,9 +1,7 @@
 name: Daily Super-Duper Bot
 
 on: 
-  schedule:
-    - cron: "*/5 * * * *"
-
+  workflow_dispatch:
 
 env:
     TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
